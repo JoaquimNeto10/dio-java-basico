@@ -1,5 +1,8 @@
 package DesafioCriarIphone.src;
 
-public class NavegadorInternet {
-    
+public interface NavegadorInternet {
+    public void mostrarPagina();
+    public void atualizarPagina();
+    public void avancarPagina();
+    public void voltarPagina();
 }
