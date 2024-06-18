@@ -10,5 +10,11 @@ public class Tarefa {
     public String getDescricao() {
         return this.descricao;
     }
+
+    @Override
+    public String toString() {
+        return descricao;
+    }
+
     
 }
