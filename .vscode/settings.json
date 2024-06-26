@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Collections\\src"
+        "Collections/src",
+        "DesafioBanco/src/Banco"
     ],
     "java.project.referencedLibraries": []
 }
