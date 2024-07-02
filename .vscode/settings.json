@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "desafio-poo-dio/src",
         "DesafioBanco/src/Banco",
         "Collections/src",
-        "desafio-poo-dio/src"
+        "DesafioBootcamp/src"
     ],
     "java.project.referencedLibraries": []
 }
